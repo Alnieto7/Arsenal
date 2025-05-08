@@ -13,14 +13,14 @@
         android:id="@+id/btnPremier"
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
-        android:layout_margin="25dp"
+        android:layout_margin="20dp"
         android:text="premier league" />
 
     <Button
         android:id="@+id/btnLaliga"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_margin="25dp"
+        android:layout_margin="20dp"
         android:text="Laliga"/>
 
 
